@@ -1,6 +1,6 @@
+![CI](https://github.com/LyudmilaLushchik/hw_testing/actions/workflows/web.yml/badge.svg)
+
 # Домашнее задание к занятию "4.Организация тестирования"
-
-
 
 Правила сдачи задания:
 
